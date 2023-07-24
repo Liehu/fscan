@@ -16,6 +16,7 @@ builds:
       - arm64
       - arm
       - "386"
+      - mips64
     goarm:
       - "6"
       - "7"
